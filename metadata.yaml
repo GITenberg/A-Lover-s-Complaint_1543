@@ -1,0 +1,33 @@
+_repo: A-Lover-s-Complaint_1543
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: When this volume of Shakespeare's poems first appeared in 1609, he had
+  already written most of the great plays that made him famous. The 154 sonnets -
+  all but two of which are addressed to a beautiful young man or a treacherous 'dark
+  lady' - contain some of the most exquisite and haunting poetry ever written, and
+  deal with eternal subjects such as love and infidelity, memory and mortality, and
+  the destruction wreaked by Time. Also included is A Lover's Complaint, originally
+  published with the sonnets, in which a young woman is overheard lamenting her betrayal
+  by a heartless seducer.
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+title: A Lover's Complaint
+url: http://www.gutenberg.org/ebooks/1543
