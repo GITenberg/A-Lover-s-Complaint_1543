@@ -1,5 +1,8 @@
 _repo: A-Lover-s-Complaint_1543
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -19,6 +22,8 @@ description: When this volume of Shakespeare's poems first appeared in 1609, he 
   the destruction wreaked by Time. Also included is A Lover's Complaint, originally
   published with the sonnets, in which a young woman is overheard lamenting her betrayal
   by a heartless seducer.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1543#A-Lover-s-Complaint
 gutenberg_issued: '1998-11-01'
 gutenberg_type: Text
 identifiers:
